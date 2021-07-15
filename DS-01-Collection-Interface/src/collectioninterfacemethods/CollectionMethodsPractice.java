@@ -53,7 +53,5 @@ public class CollectionMethodsPractice {
         System.out.println(Arrays.toString(inArray));
 
 
-
-
     }
 }
