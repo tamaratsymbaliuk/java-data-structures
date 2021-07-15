@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DS-01-Collection-Interface/DS-01-Collection-Interface.iml" filepath="$PROJECT_DIR$/DS-01-Collection-Interface/DS-01-Collection-Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DS-01-Iterator-IteratingAnyCollection/DS-01-Iterator-IteratingAnyCollection.iml" filepath="$PROJECT_DIR$/DS-01-Iterator-IteratingAnyCollection/DS-01-Iterator-IteratingAnyCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-data-structures.iml" filepath="$PROJECT_DIR$/.idea/java-data-structures.iml" />
     </modules>
   </component>
