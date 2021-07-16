@@ -1,3 +1,5 @@
+package setInterfaceHashSet;
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -20,3 +22,6 @@ public class SetOfString_HashSet {
         System.out.println(strSet.size());
     }
 }
+
+
+

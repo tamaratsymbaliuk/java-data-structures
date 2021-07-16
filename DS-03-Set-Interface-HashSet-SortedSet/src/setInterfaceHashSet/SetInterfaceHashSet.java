@@ -1,5 +1,4 @@
-package SetInterfaceHashSet;
-
+package setInterfaceHashSet;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -20,27 +19,22 @@ public class SetInterfaceHashSet {
         System.out.println(longSet.size());
         System.out.println(longSet);
 
-        for (Long each: longSet){
+        for (Long each : longSet) {
             System.out.print(each + " -> ");
         }
         System.out.println();
         System.out.println("___________________");
 
-        longSet.addAll(Arrays.asList(2L,3L,4L,5L,5L));
+        longSet.addAll(Arrays.asList(2L, 3L, 4L, 5L, 5L));
         System.out.println(longSet);
 
         //UPDATE AN ITEM --> check whether it already exists if so, remove it and add another item
         longSet.add(null);
         System.out.println(longSet);
-        if( !longSet.add(null)){
+        if (!longSet.add(null)) {
             longSet.remove(null);
             longSet.add(0L);
         }
         System.out.println(longSet);
-
-
-
-
-
     }
 }
