@@ -23,7 +23,7 @@ public class SetInterfaceHashSet {
             System.out.print(each + " -> ");
         }
         System.out.println();
-        System.out.println("___________________");
+        System.out.println("____________________");
 
         longSet.addAll(Arrays.asList(2L, 3L, 4L, 5L, 5L));
         System.out.println(longSet);
