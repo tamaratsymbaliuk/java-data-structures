@@ -54,7 +54,7 @@ public class SortedSet_NavigableSet {
 
         System.out.println(longTreeSet);
         //Iterate the longTreeSet
-        Iterator<Long> descIter = longTreeSet.descendingIterator();
+        Iterator<Long> descIter  = longTreeSet.descendingIterator();
         while(descIter.hasNext()){
             System.out.println(descIter.next());
         }
