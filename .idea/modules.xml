@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/DS-02-Comparable-Comparator-Interface/DS-02-Comparable-Comparator-Interface.iml" filepath="$PROJECT_DIR$/DS-02-Comparable-Comparator-Interface/DS-02-Comparable-Comparator-Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/DS-03-Set-Interface-HashSet-SortedSet/DS-03-Set-Interface-HashSet-SortedSet.iml" filepath="$PROJECT_DIR$/DS-03-Set-Interface-HashSet-SortedSet/DS-03-Set-Interface-HashSet-SortedSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/DS-04-Queue-Interface/DS-04-Queue-Interface.iml" filepath="$PROJECT_DIR$/DS-04-Queue-Interface/DS-04-Queue-Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DS-05-Map-Interface/DS-05-Map-Interface.iml" filepath="$PROJECT_DIR$/DS-05-Map-Interface/DS-05-Map-Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-data-structures.iml" filepath="$PROJECT_DIR$/.idea/java-data-structures.iml" />
     </modules>
   </component>
