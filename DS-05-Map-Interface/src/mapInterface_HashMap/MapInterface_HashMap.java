@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class MapInterface_HashMap {
     public static void main(String[] args) {
-        //Map - a collection of Key-Value Pair
+        //Map - a collection of Key-Value Pair, not Iterable
 
         Map<String, Integer> scoreMap = new HashMap<>();
         //map has 2 data types, string is key data type, int is value
